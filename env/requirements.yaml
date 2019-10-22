@@ -10,6 +10,9 @@ dependencies:
 - name: jx-hello-world2
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: jx-hello-world3
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: webinar2-hello-world
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
